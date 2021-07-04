@@ -1,4 +1,4 @@
-# GitHub Repositories Search
+# GitHub Repository Search
 
 A sample expo app built with react-native to display a list of GitHub repositories based on user search.
 
